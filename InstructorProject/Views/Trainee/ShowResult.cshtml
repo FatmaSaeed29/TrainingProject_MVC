@@ -1,0 +1,43 @@
+﻿@* Strong Type Model *@
+@using InstructorProject.ViewModels
+
+@model TraineeResultInSpeceficCourse
+
+<style>
+    .success {
+        color: @Model.Success;
+    }
+
+    .fail {
+        color: @Model.Failed;
+    }
+</style>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>Trainee Name</th>
+        <th>Course Name</th>
+        <th>Trainee Degree</th>
+    </tr>
+    <tr id="trainee">
+        <td class="fw-bold">@Model.TraineeName</td>
+        <td class="fw-bold">@Model.CourseName</td>
+        <td class="fw-bold">@Model.Degree</td>
+    </tr>
+</table>
+
+
+@if (Model.Degree < Model.MinDegree )
+{
+    <script>
+        var trainee = document.getElementById("trainee");
+        trainee.classList.add("fail")
+    </script>
+}
+else
+{
+    <script>
+        var trainee = document.getElementById("trainee");
+        trainee.classList.add("success")
+    </script>
+}

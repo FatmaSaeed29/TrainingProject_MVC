@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|d:\\tutorials\\iti courses\\29- mvc\\assignment\\instructorproject\\instructorproject\\views\\course\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\views\\course\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\views\\instructor\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\views\\instructor\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\views\\instructor\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\views\\instructor\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\views\\course\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\views\\course\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\controllers\\instructorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\viewmodels\\instructorawithdepartmentandcourselists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\viewmodels\\instructorawithdepartmentandcourselists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\views\\instructor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\reposatory\\instructorreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\reposatory\\instructorreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\reposatory\\iinstructorreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\reposatory\\iinstructorreposatory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\models\\iticontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\instructorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64AFCB6C-328C-4035-B8F7-42ABCE71D9F4}|InstructorProject\\InstructorProject.csproj|solutionrelative:instructorproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "itiContext.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Models\\itiContext.cs",
+              "RelativeDocumentMoniker": "InstructorProject\\Models\\itiContext.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Models\\itiContext.cs",
+              "RelativeToolTip": "InstructorProject\\Models\\itiContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T21:10:18.783Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Course\\All.cshtml",
+              "RelativeDocumentMoniker": "InstructorProject\\Views\\Course\\All.cshtml",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Course\\All.cshtml",
+              "RelativeToolTip": "InstructorProject\\Views\\Course\\All.cshtml",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAFcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-19T19:50:12.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Course\\New.cshtml",
+              "RelativeDocumentMoniker": "InstructorProject\\Views\\Course\\New.cshtml",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Course\\New.cshtml",
+              "RelativeToolTip": "InstructorProject\\Views\\Course\\New.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T21:27:13.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Instructor\\New.cshtml",
+              "RelativeDocumentMoniker": "InstructorProject\\Views\\Instructor\\New.cshtml",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Instructor\\New.cshtml",
+              "RelativeToolTip": "InstructorProject\\Views\\Instructor\\New.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T21:20:29.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InstructoraWithDepartmentAndCourseLists.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\ViewModels\\InstructoraWithDepartmentAndCourseLists.cs",
+              "RelativeDocumentMoniker": "InstructorProject\\ViewModels\\InstructoraWithDepartmentAndCourseLists.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\ViewModels\\InstructoraWithDepartmentAndCourseLists.cs",
+              "RelativeToolTip": "InstructorProject\\ViewModels\\InstructoraWithDepartmentAndCourseLists.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T21:07:24.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Instructor\\All.cshtml",
+              "RelativeDocumentMoniker": "InstructorProject\\Views\\Instructor\\All.cshtml",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Instructor\\All.cshtml",
+              "RelativeToolTip": "InstructorProject\\Views\\Instructor\\All.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T20:44:30.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "InstructorProject\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "InstructorProject\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAGQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T01:56:24.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Instructor\\Details.cshtml",
+              "RelativeDocumentMoniker": "InstructorProject\\Views\\Instructor\\Details.cshtml",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Views\\Instructor\\Details.cshtml",
+              "RelativeToolTip": "InstructorProject\\Views\\Instructor\\Details.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAACUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-18T20:53:44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InstructorReposatory.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Reposatory\\InstructorReposatory.cs",
+              "RelativeDocumentMoniker": "InstructorProject\\Reposatory\\InstructorReposatory.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Reposatory\\InstructorReposatory.cs",
+              "RelativeToolTip": "InstructorProject\\Reposatory\\InstructorReposatory.cs",
+              "ViewState": "AQIAAAkAAADgZmZmZmY9wBoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:26:22.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IInstructorReposatory.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Reposatory\\IInstructorReposatory.cs",
+              "RelativeDocumentMoniker": "InstructorProject\\Reposatory\\IInstructorReposatory.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Reposatory\\IInstructorReposatory.cs",
+              "RelativeToolTip": "InstructorProject\\Reposatory\\IInstructorReposatory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T20:26:19.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InstructorController.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Controllers\\InstructorController.cs",
+              "RelativeDocumentMoniker": "InstructorProject\\Controllers\\InstructorController.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Controllers\\InstructorController.cs",
+              "RelativeToolTip": "InstructorProject\\Controllers\\InstructorController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T19:22:42.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Program.cs",
+              "RelativeDocumentMoniker": "InstructorProject\\Program.cs",
+              "ToolTip": "D:\\Tutorials\\ITI Courses\\29- MVC\\Assignment\\InstructorProject\\InstructorProject\\Program.cs",
+              "RelativeToolTip": "InstructorProject\\Program.cs",
+              "ViewState": "AQIAAAkAAACAYWZmZmYSwBYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T15:07:31.391Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

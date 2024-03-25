@@ -1,0 +1,89 @@
+﻿@* Strong Type Model *@
+@model List<Instructor>
+@{
+    Layout = "NewLayout";
+}
+
+<h3>Instructors</h3>
+<a href="/Instructor/New" class="btn btn-outline-primary my-3 ">
+    Add New Instructors
+</a>
+<section class="instructor-grid">
+  
+    @foreach (var item in Model)
+    {
+        <div class="card ">
+           
+            <div class="image-container"><img src="~/Images/@item.imageUrl" /></div>
+            <div class="details text-center">
+                <h5 class="id ">ID: @item.Id</h5>
+                <h6 class="name">Name: @item.name</h6>
+                <div >Address: @item.address</div>
+                <div >Salary: @item.salary</div>
+                <a href="/Instructor/Details/@item.Id">
+                    <button type="button" class="btn btn-outline-primary">Show More Details</button>
+                </a>
+            </div>
+        </div>
+    }
+</section>
+
+
+<style>
+    .instructor-grid {
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        gap: 20px;
+        justify-content: center;
+    }
+
+    .card {
+        cursor: pointer;
+        transition: all 0.4s ease-in-out;
+        box-shadow: 4px 7px 11px 1px rgba(0, 0, 0, 0.42);
+        background: linear-gradient(to bottom right, #FFF7F1, #FFE4C9);
+    }
+
+    .card:hover {
+        box-shadow: 4px 7px 11px 1px rgba(179, 178, 178, 0.42);
+        transform: scale(1.05);
+    }
+
+    .image-container {
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        
+    }
+
+    .details {
+        padding: 10px;
+    }
+
+    .id {
+        font-weight: bold;
+    }
+
+   
+
+    .btn{
+        border-radius:20px;
+        margin-top:10px;
+        border: 1px solid #FFBE98;
+        background-color:transparent;
+        color: #9B4444;
+        transition: all 0.3s ease-in-out;
+    }
+
+    .btn:hover{
+            background-color: #FFBE98;
+            border: 1px solid #FFBE98;
+    }
+
+</style>

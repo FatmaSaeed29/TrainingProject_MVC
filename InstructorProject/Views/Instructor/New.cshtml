@@ -1,0 +1,71 @@
+﻿@model InstructorProject.ViewModels.InstructoraWithDepartmentAndCourseLists
+@{
+    ViewData["Title"] = "New";
+}
+<style>
+    input , select{
+        margin:10px;
+
+    }
+</style>
+
+<h1 class="text-center">Add New Instructor</h1>
+
+<form action="/Instructor/SaveNew" method="post">
+
+    <input name="name" placeholder="Name" value="@Model?.name" id="name" class="form form-control" />
+
+    <input name="imageUrl" placeholder="Image URL" value="@Model?.imageUrl" id="imageUrl" class="form form-control" />
+
+    <input name="address" placeholder="Address" value="@Model?.address" id="address" class="form form-control" />
+
+    <input name="salary" placeholder="Salary" value="@Model?.salary" id="salary" class="form form-control" />
+
+    <select name="dept_id" class="form-control" onchange="GetCourse()" id="Dept_id">
+        <option value="0">Select Department</option>
+        @foreach (var department in Model.departments)
+        {
+            <option value="@department.Id">@department.Name</option>
+        }
+    </select>
+
+    <select name="crs_id" class="form-control" id="courses">
+        <option value="">Select Course</option>
+        @* @foreach (var course in Model.courses)
+        {
+            <option value="@course.Id">@course.Name</option>
+        } *@
+
+
+
+    </select>
+    <input type="submit" id="Create" class="btn btn-primary " />
+</form>
+
+<a href="/Instructor/all" class="btn btn-outline-primary mt-3">
+     Back To All Instructors
+</a>
+
+<script src="~/lib/jquery/dist/jquery.js"></script>
+
+
+<script>
+    function GetCourse() {
+        var department_id = $("#Dept_id").val();
+        console.log(department_id);
+
+        // Make The ajax Call
+        $.ajax({
+            url: "/instructor/coursePerDepartment?dept_id=" + department_id,
+            success: function (result) {
+                var selectCourse = $("#courses");
+                selectCourse.empty();
+
+                $.each(result, function (index, course) {
+                    selectCourse.append($('<option></option>').attr('value', course.id).text(course.name));
+                });
+            }
+        })
+    }
+</script>
+

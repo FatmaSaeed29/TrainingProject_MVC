@@ -1,0 +1,71 @@
+﻿
+
+        <div class="card ">
+
+            <div class="image-container"><img src="~/Images/@Model.imageUrl" /></div>
+            <div class="details text-center">
+                <h5 class="id ">ID: @Model.Id</h5>
+                <h6 class="name">Name: @Model.name</h6>
+                <div>Address: @Model.address</div>
+                <div>Salary: @Model.salary</div>
+                 <div>Department Name: @Model.Department.Name</div>
+                 <div>Course Name: @Model.Course.Name</div>
+                <a href="/Instructor/all">
+                    <button type="button" class="btn btn-outline-primary">Back To All Instructors</button>
+                </a>
+                
+            </div>
+        </div>
+
+
+<style>
+
+    .card {
+        cursor: pointer;
+        transition: all 0.4s ease-in-out;
+        box-shadow: 4px 7px 11px 1px rgba(0, 0, 0, 0.42);
+        background: linear-gradient(to bottom right, #FFF7F1, #FFE4C9);
+        display:block;
+        margin:auto;
+        width:30%;
+        height:70%;
+        padding:20px
+    }
+
+        .card:hover {
+        box-shadow: 4px 7px 11px 1px rgba(179, 178, 178, 0.42);
+        transform: scale(1.05);
+    }
+
+    .image-container {
+        width: 100%;
+        height: 200px;
+        overflow: hidden;
+    }
+
+    img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+
+    .id {
+        font-weight: bold;
+    }
+
+
+
+    .btn {
+        border-radius: 20px;
+        margin-top: 10px;
+        border: 1px solid #FFBE98;
+        background-color: transparent;
+        color: #9B4444;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .btn:hover {
+            background-color: #FFBE98;
+            border: 1px solid #FFBE98;
+        }
+</style>

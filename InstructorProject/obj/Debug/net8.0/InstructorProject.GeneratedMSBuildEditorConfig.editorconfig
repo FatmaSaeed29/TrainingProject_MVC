@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InstructorProject
+build_property.RootNamespace = InstructorProject
+build_property.ProjectDir = D:\Tutorials\ITI Courses\29- MVC\Assignment\InstructorProject\InstructorProject\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Tutorials\ITI Courses\29- MVC\Assignment\InstructorProject\InstructorProject
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Course/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEFsbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Course/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXE5ldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Instructor/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Instructor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Instructor/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5zdHJ1Y3RvclxOZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Shared/NewLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5ld0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Shared/_NavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Trainee/ShowResult.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5lZVxTaG93UmVzdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tutorials/ITI Courses/29- MVC/Assignment/InstructorProject/InstructorProject/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-r46b7fed5w

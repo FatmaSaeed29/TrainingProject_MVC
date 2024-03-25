@@ -1,0 +1,46 @@
+﻿@model InstructorProject.ViewModels.CourseWithDepartmentList
+@{
+    ViewData["Title"] = "New";
+
+    SelectList departments = new SelectList(Model.departments , "Id" , "Name");
+}
+
+<h1>Add New Course</h1>
+<form asp-action="saveNew" asp-controller="Course" method="post" >
+    <div>
+        <label asp-for="Name" ></label>
+        <input asp-for="Name" class="form form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="degree"></label>
+        <input asp-for="degree" class="form form-control" />
+        <span asp-validation-for="degree" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="minDegree"></label>
+        <input asp-for="minDegree" class="form form-control" />
+        <span asp-validation-for="minDegree" class="text-danger"></span>
+    </div>
+
+    <div>
+        <label asp-for="dept_id"></label>
+        <select asp-for="dept_id" asp-items="departments" class="form form-control"></select>
+        <span asp-validation-for="dept_id" class="text-danger"></span>
+    </div>
+
+    <input type="submit" id="Create" class="btn btn-primary my-3" />
+
+</form>
+
+<a asp-action="All" asp-controller="Course" class="btn btn-outline-primary mt-3">
+    Back To All Courses
+</a>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
